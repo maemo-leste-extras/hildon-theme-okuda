@@ -2,7 +2,7 @@ Source: hildon-theme-okuda
 Section: user/system
 Priority: optional
 Maintainer: Ian Ryge <ian@synthesize.us>
-Build-Depends: debhelper (>= 4.0.0), hildon-theme-layout-5 (>= 0.15.0), hildon-theme-layout-5 (< 0.16.0), hildon-theme-tools, imagemagick
+Build-Depends: debhelper (>= 4.0.0), hildon-theme-layout-5, hildon-theme-tools, imagemagick, pkg-config
 Standards-Version: 3.6.0
 
 Package: hildon-theme-okuda
