@@ -1,3 +1,9 @@
+hildon-theme-okuda (1.1.0) jaunty; urgency=low
+
+  * Initial Maemo Leste import
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Thu, 16 Apr 2020 00:11:02 +0200
+
 hildon-theme-okuda (1.0.2) jaunty; urgency=low
 
   * Made contact and bookmark desktop widget thumbnails opaque
