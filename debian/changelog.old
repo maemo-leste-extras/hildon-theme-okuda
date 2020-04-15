@@ -1,0 +1,386 @@
+hildon-theme-example (0.1) jaunty; urgency=low
+
+  * Convert into being an example.
+
+ -- Carsten V. Munk <carsten@maemo.org>  Tue, 12 Jan 2010 15:21:30 +0000
+
+hildon-theme-variant-template (2.7+1.0) unstable; urgency=low
+
+  * Instantiated for template.
+
+ -- Xun Chen <xun.chen@nokia.com>  Fri, 13 Nov 2009 16:31:05 +0200
+
+hildon-theme-variant-template (2.7) unstable; urgency=low
+
+  * applications/backgrounds/Makefile.am: Added app_install_* icons.
+  * applications/backgrounds/app_install_*.png: 16 of * added
+  * Fixes: NB#146487 - Application manager: 
+  *   Category icons are missing from customized sw
+  * COPYING, debian/copyright: appliance of legal check
+
+ -- Xun Chen <xun.chen@nokia.com>  Fri, 13 Nov 2009 16:16:01 +0200
+
+hildon-theme-variant-template (2.6) unstable; urgency=low
+
+  * test/widget-theme-template.png: Add separators to RSS button.
+  * Daniel Borgmann <danielb@openismus.com> 7 Oct 2009 17:09
+  * Fixes: NB#141916 - RSS reader applet missing the up / down ...
+  * debian/changelog: correct version No. and add modifier/time
+
+ -- Xun Chen <xun.chen@nokia.com>  Thu,  8 Oct 2009 10:11:28 +0300
+
+hildon-theme-variant-template (2.5-3) unstable; urgency=low
+
+  * test/lockslider_red.png: add border of slider 
+  * Fixes: NB#141628 - Lock screen doesn't have the border ...
+
+ -- Xun Chen <xun.chen@nokia.com>  Mon,  5 Oct 2009 09:22:38 +0300
+
+hildon-theme-variant-template (2.5-2) unstable; urgency=low
+
+  * test/widget-theme-template.png: template.png from Daniel's 
+  * email at 16 Sep 2009 20:11:51. And
+  * template/template.svg: from Daniel's 23 Sep 2009 18:31:00
+
+ -- Xun Chen <xun.chen@nokia.com>  Wed, 30 Sep 2009 15:42:23 +0300
+
+hildon-theme-variant-template (2.5-1) unstable; urgency=low
+
+  * .confml: seperate background images to individule applications
+
+ -- Xun Chen <xun.chen@nokia.com>  Mon, 28 Sep 2009 14:43:18 +0300
+
+hildon-theme-variant-template (2.5) unstable; urgency=low
+
+  * Use -alpha wallpapers instead of -devel for hildon-desktop
+  * All hildon-desktop wallpapers also customizable
+  * Fixes: NB#140005 - Application manager's background is not customizable 
+
+ -- Xun Chen <xun.chen@nokia.com>  Wed, 23 Sep 2009 15:46:37 +0300
+
+hildon-theme-variant-template (2.4) unstable; urgency=low
+
+  * sync to hildon-theme-layout-5 (>= 0.13.0) 
+  * Fixes: NB#126430 - Ovi widget missing from themes
+
+ -- Xun Chen <xun.chen@nokia.com>  Wed, 23 Sep 2009 14:47:32 +0300
+
+hildon-theme-variant-template (2.3) unstable; urgency=low
+
+  * sync to hildon-theme-devel 2009-09-10 
+
+ -- Xun Chen <xun.chen@nokia.com>  Wed, 23 Sep 2009 13:22:56 +0300
+
+hildon-theme-variant-template (2.2) unstable; urgency=low
+
+  * use alpha/Nseries wallpaper.png in applications/startup-wizard/ 
+  * use alpha/Nseries clock.png, lockslider.png in applications/backgrounds/
+  * add suw_wallpaper.png in confml to be customizable
+  * Fixes: NB#138491 - Customized SW uses Melody-theme background ...
+
+ -- Xun Chen <xun.chen@nokia.com>  Fri, 11 Sep 2009 16:19:56 +0300
+
+hildon-theme-variant-template (2.1) unstable; urgency=low
+
+  * sync to hildon-theme-layout-5 (>= 5.12.3) 
+
+ -- Xun Chen <xun.chen@nokia.com>  Fri, 11 Sep 2009 15:45:14 +0300
+
+hildon-theme-variant-template (2.0) unstable; urgency=low
+
+  * added background image lockslider.png
+  * clock.png and loclslider.png optionally customizable
+  * Sync to hildon-theme-devel (5.12.1-2)
+  * merger all of htd subdirs/contents
+  * Fixes: NB#133568 - copies files from 'devel' theme w/o a depen...
+
+ -- Xun Chen <xun.chen@nokia.com>  Tue, 25 Aug 2009 15:57:07 +0300
+
+hildon-theme-variant-template (1.17-1) unstable; urgency=low
+
+  * applications/backgrounds/lockslider.png added
+
+ -- Xun Chen <xun.chen@nokia.com>  Wed, 19 Aug 2009 16:57:19 +0300
+
+hildon-theme-variant-template (1.17) unstable; urgency=low
+
+  * sync to hildon-theme-layout-5 (>= 5.12.2) 
+
+ -- Xun Chen <xun.chen@nokia.com>  Wed, 19 Aug 2009 14:19:00 +0300
+
+hildon-theme-variant-template (1.16-2) unstable; urgency=low
+
+  * really remove template/template.png and 
+  * remove applications/startup-wizard/template.png 
+  * Fixes: NB#130938 - MENA variant image contains "Customer" theme
+
+ -- Xun Chen <xun.chen@nokia.com>  Mon, 17 Aug 2009 17:14:47 +0300
+
+hildon-theme-variant-template (1.16-1) unstable; urgency=low
+
+  * debian/control.template: Provides: hildon-theme-variant 
+
+ -- Xun Chen <xun.chen@nokia.com>  Tue, 11 Aug 2009 17:17:30 +0300
+
+hildon-theme-variant-template (1.16) unstable; urgency=low
+
+  * sync to hildon-theme-layout-5 (>= 5.12.0) 
+
+ -- Xun Chen <xun.chen@nokia.com>  Tue, 11 Aug 2009 14:19:51 +0300
+
+hildon-theme-variant-template (1.15) unstable; urgency=low
+
+  * template.png's removed
+  * small errors in other places that 1.14 missed, eg configure.ac
+  * add dir applications/backgrounds to satisfy clock bg
+  * Fixes: NB#130252 - htv-template 1.14 is missing a background for clock
+
+ -- Xun Chen <xun.chen@nokia.com>  Mon, 27 Jul 2009 13:08:49 +0300
+
+hildon-theme-variant-template (1.14) unstable; urgency=low
+
+  * sync to hildon-theme-layout-5 (>= 5.11.0)
+  * Fixes: NB#129580 - hildon-theme-variant-template does not build
+
+ -- Aapo Kojo <aapo.kojo@nokia.com>  Thu, 23 Jul 2009 13:46:00 +0300
+
+hildon-theme-variant-template (1.13) unstable; urgency=low
+
+  * sync to hildon-theme-devel (5.10.20-1)
+  * where hildon-theme-layout-5 (>= 0.10.20) 
+  * Fixes: NB#125455: failed to build htv-template 1.12
+
+ -- Xun Chen <xun.chen@nokia.com>  Fri, 26 Jun 2009 13:01:55 +0300
+
+hildon-theme-variant-template (1.12) unstable; urgency=low
+
+  * sync to hildon-theme-devel 2009-05-26
+  * applications/hildon-desktop: have wallpaper?.png instead of jpg
+
+ -- Xun Chen <xun.chen@nokia.com>  Mon,  1 Jun 2009 13:20:11 +0300
+
+hildon-theme-variant-template (1.11) unstable; urgency=low
+
+  * debian/postinst: copy 'devel' instead of 'default'
+
+ -- Xun Chen <xun.chen@nokia.com>  Mon,  1 Jun 2009 13:12:33 +0300
+
+hildon-theme-variant-template (1.10) unstable; urgency=low
+
+  * debian/rules.template: test XXX -a YYY
+  * conf/hildon-theme-variant.confml: add xs:pattern & xs:maxLength
+  * Fixes: NB#115186: When the Theme name is empty, two lines of text
+
+ -- Xun Chen <xun.chen@nokia.com>  Wed, 27 May 2009 14:20:43 +0300
+
+hildon-theme-variant-template (1.9) unstable; urgency=low
+  
+  * added *.png and *.jpg to applications/hildon-desktop
+  * move *-test.confml and *.png from conf/ to test/
+  * also the try_it_out.sh to reflect the move
+
+ -- Xun Chen <xun.chen@nokia.com>  Fri, 22 May 2009 10:55:07 +0300
+
+hildon-theme-variant-template (1.8) unstable; urgency=low
+
+  * sync to hildon-theme-devel (5.10.17-1)/2009-05-11
+  * where hildon-theme-layout-5 (>= 0.10.17) 
+
+ -- Xun Chen <xun.chen@nokia.com>  Wed, 13 May 2009 14:13:24 +0300
+
+hildon-theme-variant-template (1.7) unstable; urgency=low
+
+  * put back debian/rules.template
+
+ -- Xun Chen <xun.chen@nokia.com>  Thu, 30 Apr 2009 14:42:32 +0300
+
+hildon-theme-variant-template (1.6) unstable; urgency=low
+
+  * sync to  hildon-theme-devel [5.10.14-1]/2009-04-24
+  * where hildon-theme-layout-5 (>= 0.10.14)
+
+ -- Xun Chen <xun.chen@nokia.com>  Tue, 28 Apr 2009 14:13:43 +0300
+
+hildon-theme-variant-template (1.5) unstable; urgency=low
+
+  * If non-exist of any template.png files, not to build/install
+  * debian/postins depends on /usr/share/theme/customer
+  * remove template.png files from building paths and put to conf/ 
+
+ -- Xun Chen <xun.chen@nokia.com>  Fri, 24 Apr 2009 11:57:01 +0300
+
+hildon-theme-variant-template (1.4) unstable; urgency=low
+
+  * If VARIANT is template, not to build/install
+  * Fixes: NB#112708: creates a theme without an input file
+
+ -- Xun Chen <xun.chen@nokia.com>  Thu, 23 Apr 2009 18:25:42 +0300
+
+hildon-theme-variant-template (1.3) unstable; urgency=low
+
+  * sync to hildon-theme-devel [5.10.13-1]/2009-04-16  
+  * where hildon-theme-layout-5 (>= 0.10.13)
+
+ -- Xun Chen <xun.chen@nokia.com>  Thu, 16 Apr 2009 15:30:18 +0300
+
+hildon-theme-variant-template (1.2) unstable; urgency=low
+
+  * sync to hildon-theme-devel (5.10.10-1)
+  * where hildon-theme-layout-5 (>= 0.10.10)
+
+ -- Xun Chen <xun.chen@nokia.com>  Tue, 24 Mar 2009 10:30:03 +0200
+
+hildon-theme-variant-template (1.1) unstable; urgency=low
+
+  * Synchronize to hildon-theme-devel 2009-03-06/5.10.7-1
+  *   where hildon-theme-layout-5 (>= 0.10.7)
+  * debian/postinst.template: if "$VARIANT"="template" then exit 
+
+ -- Xun Chen <xun.chen@nokia.com>  Mon,  9 Mar 2009 10:24:21 +0200
+
+hildon-theme-variant-template (1.0) unstable; urgency=low
+
+  * Synchronize to hildon-theme-devel 2009-02-25/5.10.5-1
+
+ -- Xun Chen <xun.chen@nokia.com>  Thu, 26 Feb 2009 11:17:40 +0200
+
+hildon-theme-variant-template (0.9-2) unstable; urgency=low
+
+  * conf/hildon-theme-variant.confml: <ThemeDir> removed
+  * configure.ac.template: use "customer" instead of @THEMEDIR@
+  * debian/postinst: use fixed name 'customer' instead of @@
+  * Fixes: NB#102860: Reboot loop if /usr/share/themes/default ...
+
+ -- Xun Chen <xun.chen@nokia.com>  Tue, 24 Feb 2009 16:13:56 +0200
+
+hildon-theme-variant-template (0.9-1) unstable; urgency=low
+
+  * <localPath> removed from <data> section of conf/*.confml
+
+ -- Xun Chen <xun.chen@nokia.com>  Mon, 23 Feb 2009 10:53:27 +0200
+
+hildon-theme-variant-template (0.9) unstable; urgency=low
+
+  * Synchronize to hildon-theme-devel 2009-02-12/5.10.4-1
+  * Have own backgrounds
+
+ -- Xun Chen <xun.chen@nokia.com>  Fri, 13 Feb 2009 18:00:48 +0200
+
+hildon-theme-variant-template (0.8) unstable; urgency=low
+
+  * Updated further to 2009-02-10 [5.10.3-1 release]
+  * Synchronize to hildon-theme-devel 2009-01-28 
+  * Fixes: NB#101167 Startup wizard background image is missing in
+    customization package
+  * More details see top Changelog
+
+ -- Xun Chen <xun.chen@nokia.com>  Wed, 11 Feb 2009 11:36:08 +0200
+
+hildon-theme-variant-template (0.7) unstable; urgency=low
+
+  * Synchronized to hildon-theme-devel (5.10.2-1)
+
+ -- Xun Chen <xun.chen@nokia.com>  Tue,  3 Feb 2009 16:59:43 +0200
+
+hildon-theme-variant-template (0.6) unstable; urgency=low
+
+  * Shorten revision number.
+
+ -- Xun Chen <xun.chen@nokia.com>  Mon, 26 Jan 2009 17:22:19 +0200
+
+hildon-theme-variant-template (0.0.5) unstable; urgency=low
+
+  * Change two of <localPAth>
+
+ -- Xun Chen <xun.chen@nokia.com>  Mon, 26 Jan 2009 17:17:00 +0200
+
+hildon-theme-variant-template (0.0.4) unstable; urgency=low
+
+  * Synchronize to hildon-theme-layout-5 (>= 0.10.1)
+
+ -- Xun Chen <xun.chen@nokia.com>  Mon, 22 Dec 2008 14:59:57 +0200
+
+hildon-theme-variant-template (0.0.3) unstable; urgency=low
+
+  * Correction: <ThemeImageFile> => <WidgetThemeFile>
+
+ -- Xun Chen <xun.chen@nokia.com>  Tue,  2 Dec 2008 11:23:29 +0200
+
+hildon-theme-variant-template (0.0.2) unstable; urgency=low
+
+  * Shortern version number.
+
+ -- Xun Chen <xun.chen@nokia.com>  Fri, 28 Nov 2008 16:33:17 +0200
+
+hildon-theme-variant-template (0.0.1-9) unstable; urgency=low
+
+  * Add startup-wizard theme
+
+ -- Xun Chen <xun.chen@nokia.com>  Fri, 28 Nov 2008 12:41:05 +0200
+
+hildon-theme-variant-template (0.0.1-8) unstable; urgency=low
+
+  * Synchronize to hildon-theme-layout-5 0.10.0<=>0.11.0
+
+ -- Xun Chen <xun.chen@nokia.com>  Fri, 28 Nov 2008 11:43:57 +0200
+
+hildon-theme-variant-template (0.0.1-7) unstable; urgency=low
+
+  * Remove debian/files to ensure integration
+
+ -- Xun Chen <xun.chen@nokia.com>  Fri, 28 Nov 2008 10:46:07 +0200
+
+hildon-theme-variant-template (0.0.1-6) unstable; urgency=low
+
+  * Back to use 'file' type to handle upload template.png
+
+ -- Xun Chen <xun.chen@nokia.com>  Tue, 25 Nov 2008 15:17:30 +0200
+
+hildon-theme-variant-template (0.0.1-5) unstable; urgency=low
+
+  * Remove template/Makefile.am.template.
+  * Keep name template/template.png constant but with ditinguishable color
+
+ -- Xun Chen <xun.chen@nokia.com>  Tue, 25 Nov 2008 10:36:24 +0200
+
+hildon-theme-variant-template (0.0.1-4+1.0) unstable; urgency=low
+
+  * Instantiated for template.
+
+ -- Xun Chen <xun.chen@nokia.com>  Mon, 24 Nov 2008 17:32:55 +0200
+
+hildon-theme-variant-template (0.0.1-4) unstable; urgency=low
+
+  * Change back to type 'string'.
+  * Add template template/Makefile.am.template.
+  * Add template configure.ac.template.
+  * Add parameters of above to conf/*.confml.
+
+ -- Xun Chen <xun.chen@nokia.com>  Mon, 24 Nov 2008 17:19:43 +0200
+
+hildon-theme-variant-template (0.0.1-3+1.0) unstable; urgency=low
+
+  * Use type 'file' instead of 'string' in *.confml.
+  * <meta> section removed. 
+  * <desc> sections added.
+
+ -- Xun Chen <xun.chen@nokia.com>  Fri, 21 Nov 2008 15:31:16 +0200
+
+hildon-theme-variant-template (0.0.1-2+1.0) unstable; urgency=low
+
+  * Instantiated for template.
+  * Update control upon hildon-theme-devel.
+
+ -- Xun Chen <xun.chen@nokia.com>  Fri, 14 Nov 2008 11:32:39 +0200
+
+hildon-theme-variant-template (0.0.1-1+1.0) unstable; urgency=low
+
+  * Instantiated for template.
+
+ -- Xun Chen <xun.chen@nokia.com>  Wed, 29 Oct 2008 10:59:10 +0200
+
+hildon-theme-variant-template (0.0.1-1) unstable; urgency=low
+
+  * Initiated by Copying from hildon-theme-devel (5.7.0-1)
+
+ -- Xun Chen <csaavedra@igalia.com>  Fri, 24 Oct 2008 14:02:00 +0300

@@ -1,0 +1,12 @@
+Source: @THEME_PKG@
+Section: user/desktop
+Priority: optional
+Maintainer: @THEME_MAINTAINER@
+Build-Depends: debhelper (>= 4.0.0), hildon-theme-layout-5 (>= 0.15.0), hildon-theme-layout-5 (< 0.16.0), hildon-theme-tools, imagemagick
+Standards-Version: 3.6.0
+
+Package: @THEME_PKG@
+Architecture: all
+Depends: gtk2-engines-sapwood (>= 3.1.1), hildon-theme-cacher (>= 0.3.0)
+Description: @THEME_NAME@
+

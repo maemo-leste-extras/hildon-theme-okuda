@@ -1,0 +1,9 @@
+#! /bin/sh
+
+rm -rf /usr/share/themes/@ThemeDir@/gtk-2.0/*.cache
+
+if [ "`readlink /etc/hildon/theme`" = /usr/share/themes/@ThemeDir@ ]; then
+   if [ -x /usr/bin/personalisation ]; then
+	   /usr/bin/personalisation /usr/share/themes/default
+   fi
+fi

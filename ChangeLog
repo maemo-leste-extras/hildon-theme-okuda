@@ -1,0 +1,395 @@
+2010-01-28  Daniel Borgmann  <danielb@openismus.com>
+
+	* Synced with theme layout 0.15.x
+
+2009-12-01  Daniel Borgmann  <danielb@openismus.com>
+
+	* configure.ac.template:
+	* debian/control.template:
+
+	Updates.
+
+2009-11-27  Daniel Borgmann  <danielb@openismus.com>
+
+	* data/Makefile.am: Remove input methods RC file.
+
+	Synced template to layout 5.14.0.
+
+2009-11-13  Daniel Borgmann  <danielb@openismus.com>
+
+	* applications/backgrounds/Makefile.am: Added app_install_ icons.
+	Fixes: NB#146487
+
+2009-10-07  Daniel Borgmann <danielb@openismus.com>
+
+	* sync to hildon-theme-devel 2009-10-06
+
+2009-09-23  Xun Chen <xun.chen@nokia.com>
+
+	* sync to hildon-theme-devel 2009-09-10
+
+2009-09-11  Xun Chen <xun.chen@nokia.com>
+
+	* sync to hildon-theme-devel 2009-09-02
+
+2009-08-25  Xun Chen <xun.chen@nokia.com>
+
+	* Extends as hildon-theme-devel [5.12.1-1 release].
+
+2009-08-19  Xun Chen <xun.chen@nokia.com>
+
+	* sync to hildon-theme-devel 2009-08-18
+
+2009-08-11  Xun Chen <xun.chen@nokia.com>
+
+	* sync to hildon-theme-devel 2009-07-29
+
+2009-07-27  Xun Chen <xun.chen@nokia.com>
+
+	* sync to hildon-theme-devel 2009-07-09
+
+2009-06-26  Xun Chen <xun.chen@nokia.com>
+
+	* sync to hildon-theme-devel 2009-06-24
+
+2009-06-24  Xun Chen <xun.chen@nokia.com>
+
+	* sync to hildon-theme-devel 2009-06-12
+
+2009-05-28  Xun Chen <xun.chen@nokia.com>
+
+	* sync to hildon-theme-devel 2009-05-26
+
+2009-05-13  Xun Chen <xun.chen@nokia.com>
+
+	* sync to hildon-theme-devel (5.10.17-1)/2009-05-11
+	* where hildon-theme-layout-5 (>= 0.10.17)
+
+2009-04-28  Xun Chen <xun.chen@nokia.com>
+
+	* sync to  hildon-theme-devel [5.10.14-1]/2009-04-24
+	* where hildon-theme-layout-5 (>= 0.10.14)
+
+2009-04-16  Xun Chen <xun.chen@nokia.com>
+
+	* sync to hildon-theme-devel [5.10.13-1]+/2009-04-16  
+	* where hildon-theme-layout-5 (>= 0.10.13)
+
+2009-03-24  Xun Chen <xun.chen@nokia.com>
+
+	* sync to hildon-theme-devel (5.10.10-1)
+	* where hildon-theme-layout-5 (>= 0.10.10)
+
+2009-03-09  Xun Chen <xun.chen@nokia.com>
+
+	* Synchronize to hildon-theme-devel 2009-03-06/5.10.7-1
+	*   where hildon-theme-layout-5 (>= 0.10.7)
+
+2009-02-26  Xun Chen <xun.chen@nokia.com>
+
+	* Synchronize to hildon-theme-devel 2009-02-25/5.10.5-1
+
+2009-02-13  Xun Chen <xun.chen@nokia.com>
+
+	* Synchronize to hildon-theme-devel 2009-02-12/5.10.4-1
+
+2009-02-10  Xun Chen <xun.chen@nokia.com>
+
+	* add applications/hildon-desktop for wallpapers
+	* updated to 'devel' 2009-02-09 on concerned parts
+	* postinst to copy default theme dirs
+	* updated further to 2009-02-10 [5.10.3-1 release]
+
+2009-02-03  Xun Chen <xun.chen@nokia.com>
+
+	* Synchronize to hildon-theme-devel 2009-01-28
+	* Updated ChangeLog
+	* Copied applications/startup-wizard/coordinates.png,
+	*  layout.txt, applications/startup-wizard/layout.txt,
+	*  applications/startup-wizard/template.png, template.png,
+	*  template.svg, template.svg, data/Makefile.am, 
+	*  template/coordinates.png, template.png, template.svg 
+	* Updated configure.template
+	* Todo applications/startup-wizard/Makefile.am
+
+2008-12-22  Xun Chen <xun.chen@nokia.com>
+
+	* Synchronize to hildon-theme-layout-5 (>= 0.10.1) 
+
+2008-11-28  Xun Chen <xun.chen@nokia.com>
+
+	* Synchronize to hildon-theme-layout-5 0.10.0<=>0.11.0
+
+2008-11-17  Xun Chen <xun.chen@nokia.com>
+
+	* Update upon hildon-theme-devel.
+
+2008-10-24  Xun Chen <xun.chen@nokia.com>
+	
+	* Branched to be a customization point
+	* Wallpaper removed, and leave theme alone  
+
+2008-10-23  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* wallpaper/wallpaper[1-4].png: continuous, looping wallpaper to
+	play with the idea of rotating home views...
+
+2008-10-22  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: Updated toolbar background graphics
+
+	Removed lots of legacy framework bits to match the new layout -
+	these should not be used anywhere anymore, hopefully...
+
+	* template/coordinates.png: updated to new coords from layout
+
+2008-10-21  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: Updated button styles to be more clear,
+	also made all to-be-removed widgets red so we see if they are still
+	being used anywhere.
+
+2008-10-16  Claudio Saavedra  <csaavedra@igalia.com>
+
+	[5.7.0-1 release]
+
+	* configure.ac: bump version.
+	* debian/changelog: updates.
+	* debian/control: bump dependencies.
+
+2008-10-16  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: New look for buttons, text colour changes,
+	update for comboboxes.
+
+2008-10-08  Claudio Saavedra  <csaavedra@igalia.com>
+
+	[5.6.0 release]
+
+	* configure.ac: bump version.
+	* debian/changelog: updates.
+	* debian/control: bump dependencies.
+
+2008-10-07  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: Added DarkerBackgroundColor to the theme
+	template to match layout changes.
+
+2008-10-02  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: text entry gfx changes, size is now 60x60
+
+2008-09-30  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: updated the button internal margins to
+	3px for some finger-sized widgets, to match specs.
+
+2008-09-26  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: Added icons to the window manager
+	buttons, those are no longer in the icon theme, but here. Thus
+	added separate images for close and back button states, since they
+	cannot share images anymore.
+
+2008-09-24  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* data/Makefile.am (colors.css): added rules to install the theme
+	logical colors as a CSS file for web runtime use etc..
+
+2008-09-23  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: removed startup wizard stuff, which got
+	moved out.
+
+2008-09-22  Claudio Saavedra  <csaavedra@igalia.com>
+
+	[5.5.0-1 release]
+
+	* configure.ac: bump version.
+	* debian/changelog: updates.
+	* debian/control: bump dependencies.
+
+2008-09-18  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* wallpaper/wallpaper[1-4].png: updated with greetings from Summit :)
+
+2008-09-12  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: Added arrows for combobox entry as its
+	now different from combobox arrow. Layout was updated too.
+
+2008-09-10  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: Reworked color palette. Removed about 66
+	logical colors, beware and keep your hard hats on.
+
+2008-09-08  Claudio Saavedra  <csaavedra@igalia.com>
+
+	[5.4.0-1 release]
+
+	* configure.ac: Bump version. Depend on hildon-theme-layout 0.4.0
+	* debian/changelog: update.
+	* debian/control: depend on hildon-theme-layout 0.4.0
+
+2008-09-08  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: Updates to the GtkEntry theming.
+
+2008-09-05  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: changed PaintedDefaultTextColor to light
+	so it matches the selection look on buttons
+
+2008-09-02  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.*: added bg for confirmation note.
+
+2008-08-29  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* wallpaper/Makefile.am (install): added the four juxtaposed
+	wallpapers so they get installed in the filesystem.
+
+2008-08-27  Claudio Saavedra  <csaavedra@igalia.com>
+
+	[5.3.0-1 release]
+
+	* configure.ac: prerelease version bump, depend on
+	hildon-theme-layout-5 0.3.0.
+	* debian/changelog: update.
+	* debian/rules: depend on hildon-theme-layout-5 0.3.0.
+
+2008-08-26  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: Added startup wizard clock hands and
+	their shadows, according to the layout changes.
+
+2008-08-26  Claudio Saavedra  <csaavedra@igalia.com>
+
+	[5.2.0-2 release]
+
+	* debian/changelog: Bump debian version.
+
+2008-08-26  Claudio Saavedra <csaavedra@igalia.com>
+
+        * debian/postint: Set this theme as default after installation.
+
+2008-08-25  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	[5.2.0-1 release]
+	
+	* template/template.*: Added new stuff for task switcher, 
+	fixed the style in various places.
+
+	* configure.ac:
+	* debian/changelog: Updating.
+	* debian/control: Updated layout dependency.
+
+2008-08-07  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	[5.1.1-1 release]
+
+	* configure.ac:
+	* debian/changelog: Updating.
+
+2008-08-05  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* wallpaper/wallpaper.png: New wallpaper for development theme.
+
+2008-07-01  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: should now contain all new widget
+	graphics according to my current understanding. The missing ones
+	are possible bitmaps for different dialogs/banners, but those do
+	also exist in legacy side, so we probably will reuse them? Also
+	likely something will need to be changed when implementation
+	proceeds, but that's just business as usual :)
+
+	Time for vacation now. Have fun, hopefully this is enough for you
+	to play with for a while? :)
+
+2008-06-30  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: added some more widget graphics for new
+	things, like progressbars and seek bar and list item
+	backgrounds. Also added background for incoming events.
+
+2008-06-27  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: added some alpha to the framework images,
+	hopefully the stuff is done correctly. Lets fix if it is not
+	feasible.
+
+2008-06-27  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: added bunch of H2.2 graphics, fixed coords
+
+2008-06-27  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: Added two new colors to match layout -
+	ReversedTextColor and ReversedBackgrdColor for reversed-text, to
+	be used in situations where background is not the same as the
+	rest. A good example is text entries, with a dark theme.
+
+2008-06-26  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: enlarged the template to 10000 pixels wide 
+	top make space for new widgets.
+
+2008-06-26  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: reverted new changes - as we realized we
+	need the old framework stuff around until the new one is
+	built.. duh..
+
+2008-06-23  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template.svg: incorporated some new widgets and moved stuff
+	around - TODO: layout changes are also needed to make this work.
+
+2008-06-17  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template-legacy.svg: more dark shades converted over,
+	rouhgly halfway done now..
+
+2008-06-17  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/coordinates.png: added as a design aid. will try to
+	keep this up to date with layout changes.
+
+2008-06-13  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* template/template-legacy.svg: initial changes to make the 
+	backround dark. work in progress, but should work. for now you
+	need to copy template-legacy.png over template.png to make this 
+	work in chinook device.
+
+2008-06-11  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* *** Oops, lets do it the other way around ***
+	
+	* template/template-legacy.*: moved the old Chinook/Diablo theme
+	to a legacy one, this will contain all the legacy widgets and 
+	graphics.
+
+	* tenplate/template.*: new widgets will be here. 
+
+	This way any old themes are easier to port over to this new layout,
+	since we just add a new template file and the old widget template 
+	stays the same. 
+
+	At this point this theme is broken, committing my work in progress
+	now, sorry about that. :-P
+	
+2008-06-06  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* Initial change to dark background colour. Incredibly broken at this
+	point, but it's a start - need to fix things first, then I will add 
+	new stuff.
+	
+2008-05-28  Tuomas Kuosmanen  <tuomas.kuosmanen@nokia.com>
+
+	* Initial version of development theme for layout-5
+	* New art.
+
+	
+

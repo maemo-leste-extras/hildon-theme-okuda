@@ -1,0 +1,38 @@
+hildon-theme-okuda (1.0.2) jaunty; urgency=low
+
+  * Made contact and bookmark desktop widget thumbnails opaque
+  * Changed ActiveTextColor (E-mail message list, etc) 
+  * Changed AccentColors (names in IM/SMS conversations)
+  * Changed small notebook/tab graphics
+  * Changed RSS desktop widget
+  * Changed theme icon (theme selection dialog)
+  * Changed virtual keyboard button clicked state
+  * Changed tick mark icons (visible in Manage views dialog)
+  * Made Media player desktop widget icons larger
+  * Added list line dividers
+  * Removed general_sms icon (may eventually be re-added along with other icons like it)
+
+ -- Ian Ryge <ian@synthesize.us>  Tue, 3 Aug 2010 20:00:47 -0700
+
+hildon-theme-okuda (1.0.1) jaunty; urgency=low
+
+  * Added missing buttons.
+  * Added missing app menu indicator triangle.
+  * Made app launcher applets smaller.
+  * Corrected debian/copyright.
+
+ -- Ian Ryge <ian@synthesize.us>  Mon, 19 Jul 2010 23:00:47 -0700
+
+hildon-theme-okuda (1.0.0) jaunty; urgency=low
+
+  * debian/control: Changed Section. Added XB-Maemo-Icon-26, XSBC-Bugtracker, and XSBC-Maemo-Display-Name.
+  * Added second wallpaper (Okudagram).
+  * Fixed camera delete and share icons.
+
+ -- Ian Ryge <ian@synthesize.us>  Thu, 15 Jul 2010 22:45:03 -0700
+
+hildon-theme-okuda (0.1) jaunty; urgency=low
+
+  * Initial release.
+
+ -- Ian Ryge <ian@synthesize.us>  Mon, 5 Jul 2010 02:45:03 +0100

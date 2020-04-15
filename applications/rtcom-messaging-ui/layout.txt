@@ -1,0 +1,39 @@
+# This file is used by the build toolchain to cut the individual
+# images out of the widget template for startup wizard.
+
+[Main]
+TemplateWidth=300
+TemplateHeight=300
+
+[Colours]
+MessagingViewBackgroundColor=220,30,10,10
+MessagingBubbleSelfBackgroundColor=220,65,10,10
+MessagingBubbleOtherBackgroundColor=220,100,10,10
+MessagingBubbleClickedBackgroundColor=220,137,10,10
+MessagingBubbleBorderColor=220,173,10,10
+MessagingAvatarBorderColor=220,211,10,10
+
+[Elements]
+
+# Chat Bubbles
+ChatBubbleSelfNW.png=53,47,10,10
+ChatBubbleSelfN.png=63,47,10,10
+ChatBubbleSelfNE.png=187,47,10,10
+ChatBubbleSelfE.png=187,57,10,10
+ChatBubbleSelfSE.png=187,121,10,10
+ChatBubbleSelfS.png=63,121,10,10
+ChatBubbleSelfSW.png=53,121,10,10
+ChatBubbleSelfW.png=53,57,10,10
+ChatBubbleSelfMiddle.png=63,57,10,10
+
+ChatBubbleOtherNW.png=53,174,10,10
+ChatBubbleOtherN.png=63,174,10,10
+ChatBubbleOtherNE.png=187,174,10,10
+ChatBubbleOtherE.png=187,184,10,10
+ChatBubbleOtherSE.png=187,249,10,10
+ChatBubbleOtherS.png=63,249,10,10
+ChatBubbleOtherSW.png=53,249,10,10
+ChatBubbleOtherW.png=53,184,10,10
+ChatBubbleOtherMiddle.png=63,184,10,10
+
+

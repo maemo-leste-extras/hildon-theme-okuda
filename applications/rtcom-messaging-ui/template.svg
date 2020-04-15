@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   id="svg8123"
+   sodipodi:version="0.32"
+   inkscape:version="0.47pre4 r22446"
+   version="1.0"
+   sodipodi:docname="template.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/scratchbox/users/daniel/home/daniel/Repositories/hildon-themes/hildon-theme-devel/applications/rtcom-messaging-ui/template.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs8125">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 150 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="300 : 150 : 1"
+       inkscape:persp3d-origin="150 : 100 : 1"
+       id="perspective42" />
+    <filter
+       inkscape:collect="always"
+       id="filter12181"
+       x="-0.084563754"
+       width="1.1691275"
+       y="-0.20655738"
+       height="1.4131148"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.1"
+         id="feGaussianBlur12183" />
+    </filter>
+    <inkscape:perspective
+       id="perspective3635"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3657"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3684"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3706"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3706-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3706-7"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3746"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#4a3b3b"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="248.60526"
+     inkscape:cy="139.84001"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="true"
+     inkscape:window-width="1400"
+     inkscape:window-height="979"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8241"
+       empspacing="5"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata8128">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="darkness"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="color:#000000;fill:#121415;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.4000001;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3604-2"
+       width="1220"
+       height="1031.0001"
+       x="-10"
+       y="-15.000003"
+       rx="0"
+       ry="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="opacity:0.75;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter12181);enable-background:new"
+       d="m 62.665,51.04 124.75001,0 c 3.6702,0 6.625,2.95475 6.625,6.625 l 0,65.74999 c 0,3.67025 -2.9548,6.625 -6.625,6.625 l -124.75001,0 c -3.6702,0 -6.625,-2.95475 -6.625,-6.625 l 0,-65.74999 c 0,-3.67025 2.9548,-6.625 6.625,-6.625 z"
+       id="path9182"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       id="path9185"
+       d="m 62.74501,49.733355 124.75001,0 c 3.6702,0 6.625,2.95475 6.625,6.625 l 0,65.749995 c 0,3.67024 -2.9548,6.625 -6.625,6.625 l -124.75001,0 c -3.6702,0 -6.625,-2.95475 -6.625,-6.625 l 0,-65.749995 c 0,-3.67025 2.9548,-6.625 6.625,-6.625 z"
+       style="fill:#ffff94;fill-opacity:1;fill-rule:nonzero;stroke:#ffffd6;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <text
+       id="text9189"
+       y="34.617188"
+       x="54.153332"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#2e3436;fill-opacity:1;stroke:#555753;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-weight:normal;fill:#2e3436;stroke:#555753"
+         y="34.617188"
+         x="54.153332"
+         sodipodi:role="line"
+         id="tspan9193">Chat Bubbles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#5c5c5c;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+       x="-108.48006"
+       y="38.307629"
+       id="text9995"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:transform-center-x="35"
+       inkscape:transform-center-y="24"><tspan
+         sodipodi:role="line"
+         id="tspan9997"
+         x="-108.48006"
+         y="38.307629">self</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       id="path10015"
+       d="m 62.665,177.82667 124.75001,0 c 3.6702,0 6.625,2.95475 6.625,6.625 l 0,65.75 c 0,3.67025 -2.9548,6.62501 -6.625,6.62501 l -124.75001,0 c -3.6702,0 -6.625,-2.95475 -6.625,-6.625 l 0,-65.75 c 0,-3.67025 2.9548,-6.625 6.625,-6.625 z"
+       style="opacity:0.75;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter12181);enable-background:new" />
+    <path
+       style="fill:#d1d6d9;fill-opacity:1;fill-rule:nonzero;stroke:#e5e8ea;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       d="m 62.665,176.82667 124.75001,0 c 3.6702,0 6.625,2.95475 6.625,6.625 l 0,65.75 c 0,3.67025 -2.9548,6.62501 -6.625,6.62501 l -124.75001,0 c -3.6702,0 -6.625,-2.95475 -6.625,-6.625 l 0,-65.75 c 0,-3.67025 2.9548,-6.625 6.625,-6.625 z"
+       id="path10017"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       inkscape:transform-center-y="24"
+       inkscape:transform-center-x="35"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="text10019"
+       y="38.307629"
+       x="-234.48009"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#5c5c5c;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="38.307629"
+         x="-234.48009"
+         id="tspan10021"
+         sodipodi:role="line">other</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="160.61731"
+       y="23.420746"
+       id="text3094"><tspan
+         sodipodi:role="line"
+         id="tspan3096"
+         x="160.61731"
+         y="23.420746">Colors</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px"
+       x="213.13203"
+       y="57.876587"
+       id="text3098"><tspan
+         sodipodi:role="line"
+         id="tspan3100"
+         x="213.13203"
+         y="57.876587">SelfBackground</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px"
+       x="212.63203"
+       y="94.782181"
+       id="text3102"><tspan
+         sodipodi:role="line"
+         id="tspan3104"
+         x="212.63203"
+         y="94.782181">OtherBackground</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px"
+       x="213.96046"
+       y="131.7233"
+       id="text3106"><tspan
+         sodipodi:role="line"
+         id="tspan3108"
+         x="213.96046"
+         y="131.7233">ClickedBackground</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px"
+       x="213.83914"
+       y="166.42178"
+       id="text3110"><tspan
+         sodipodi:role="line"
+         id="tspan3112"
+         x="213.83914"
+         y="166.42178">BubbleBorder</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px"
+       x="213.75336"
+       y="203.03448"
+       id="text3114"><tspan
+         sodipodi:role="line"
+         id="tspan3116"
+         x="213.75336"
+         y="203.03448">AvatarBorder</tspan></text>
+    <rect
+       style="color:#000000;fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect3118"
+       width="25.455845"
+       height="14.849242"
+       x="212.83914"
+       y="62.412121" />
+    <rect
+       style="color:#000000;fill:#101010;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect3120"
+       width="24.162951"
+       height="15.556349"
+       x="213.04625"
+       y="97.939034" />
+    <rect
+       style="color:#000000;fill:#aaff55;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect3122"
+       width="25.455845"
+       height="15.556349"
+       x="212.54625"
+       y="133.96594" />
+    <rect
+       style="color:#000000;fill:#535353;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect3124"
+       width="24.04163"
+       height="16.263456"
+       x="213.54625"
+       y="170.16443" />
+    <rect
+       style="color:#000000;fill:#bababa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect3126"
+       width="23.334524"
+       height="17.67767"
+       x="213.33914"
+       y="207.2477" />
+    <text
+       id="text2791"
+       y="22.876587"
+       x="213.13203"
+       style="font-size:8px"
+       xml:space="preserve"><tspan
+         y="22.876587"
+         x="213.13203"
+         sodipodi:role="line"
+         id="tspan2801">ViewBackground</tspan></text>
+    <rect
+       y="27.412117"
+       x="212.83914"
+       height="14.849242"
+       width="25.455845"
+       id="rect2795"
+       style="color:#000000;fill:#383838;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px"
+       x="59.5"
+       y="44"
+       id="text2797"><tspan
+         sodipodi:role="line"
+         id="tspan2799"
+         x="59.5"
+         y="44">(to be removed)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="okuda"
+     style="display:inline">
+    <rect
+       rx="6.8125"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00aa00;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3625"
+       width="140"
+       height="80"
+       x="55"
+       y="49"
+       ry="6.8125" />
+    <rect
+       rx="6.8125"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#0055ff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3625-8"
+       width="140"
+       height="81"
+       x="55"
+       y="176"
+       ry="6.8125" />
+    <rect
+       style="color:#000000;fill:#00aa00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3674"
+       width="27"
+       height="18"
+       x="212"
+       y="133.5" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3674-3"
+       width="27"
+       height="18"
+       x="212"
+       y="97" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3674-3-3"
+       width="27"
+       height="18"
+       x="212"
+       y="60" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3674-3-2"
+       width="27"
+       height="18"
+       x="212"
+       y="27" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3674-3-0"
+       width="27"
+       height="18"
+       x="213"
+       y="170" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3674-3-0-7"
+       width="27"
+       height="18"
+       x="212"
+       y="206.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="coordinates"
+     style="opacity:0.50224214;display:none"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="coordinates.png"
+       xlink:href="coordinates.png"
+       width="300"
+       height="300"
+       id="image3692"
+       x="0"
+       y="0" />
+  </g>
+  <rect
+     style="opacity:0.8755556;color:#000000;fill:url(#linearGradient8329-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect3900"
+     width="29"
+     height="21"
+     x="636"
+     y="190" />
+</svg>

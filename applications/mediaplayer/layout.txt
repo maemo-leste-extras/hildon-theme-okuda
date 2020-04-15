@@ -1,0 +1,32 @@
+# This file is used by the build toolchain to cut the individual
+# images out of the widget template for mediaplayer.
+
+[Main]
+TemplateWidth=400
+TemplateHeight=600
+
+[Elements]
+
+Button.png=0,0,164,164
+
+ShufflePressed.png=164,0,64,64
+CrossfadePressed.png=164,0,64,64	# deprecated name, what was I thinking!
+RepeatPressed.png=164,64,64,64
+StopPressed.png=164,128,64,64
+BackPressed.png=164,320,64,64
+ForwardPressed.png=164,384,64,64
+
+Shuffle.png=228,0,64,64
+Crossfade.png=228,0,64,64	# deprecated name, what was I thinking!
+Repeat.png=228,64,64,64
+Stop.png=228,128,64,64
+Play.png=228,192,64,64
+Pause.png=228,256,64,64
+Back.png=228,320,64,64
+Forward.png=228,384,64,64
+
+AppletStop.png=299,128,50,50
+AppletPlay.png=299,192,50,50
+AppletPause.png=299,256,50,50
+AppletBack.png=299,320,50,50
+AppletForward.png=299,384,50,50

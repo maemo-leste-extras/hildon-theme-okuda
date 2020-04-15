@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Background Image
+Name=@THEME_NAME@
+
+X-File1=@BACKGROUNDS_FULL_DIR@/wallpaper1.png
+X-File2=@BACKGROUNDS_FULL_DIR@/wallpaper2.png
+X-File3=@BACKGROUNDS_FULL_DIR@/wallpaper3.png
+X-File4=@BACKGROUNDS_FULL_DIR@/wallpaper4.png
+
+X-Order=01

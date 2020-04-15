@@ -1,0 +1,15 @@
+How to create a new theme by using this customization point (cp)
+================================================================
+By Xun Chen <xun.chen@nokia.com>
+
+1. Modify colors (even shapes, as long as they stay inside the boxes) of widgets from image file template/template.png, with any image creation or drawing tools, e.g., Gimp.
+
+2. Or, not recommended, change the size of widgets which presented in both template/template.png and layout.txt in another package hildon-theme-layout-5 to be matched each other.
+
+3. Give your theme following parameters in conf/hilton-hildon-theme-variant.confml:
+   - ThemeDir: where to install your theme under /usr/share/theme) 
+   - ThemeName: your theme's name
+
+4. Build the package, your new looking theme will be available.
+
+5. This cp will not set the new theme as default, but another cp 'theme-default-settings-template' will.

@@ -1,0 +1,5 @@
+@THEME_PKG@ (0.1) jaunty; urgency=low
+
+  * Convert into being an example.
+
+ -- @THEME_MAINTAINER@  @DATETIME@

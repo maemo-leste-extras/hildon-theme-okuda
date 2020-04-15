@@ -1,0 +1,11 @@
+#! /bin/sh -e
+
+THEMEDIR='/usr/share/themes/@ThemeDir@'
+
+if [ ! -d $THEMEDIR ]; then
+  exit 0
+fi
+	  
+hildon-theme-cacher $THEMEDIR
+
+exit 0

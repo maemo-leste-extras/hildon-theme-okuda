@@ -1,0 +1,43 @@
+# This file is used by the build toolchain to cut the individual
+# images out of the widget template for startup wizard.
+
+[Main]
+TemplateWidth=1200
+TemplateHeight=1000
+
+[Elements]
+
+# First time startup wizard graphics (naturally 
+# only the default themes' graphics are used)
+
+StartupWizardButtonNormal.png=24,34,192,70
+StartupWizardButtonPressed.png=24,114,192,70
+
+StartupWizardToggleBackground.png=346,194,240,70
+StartupWizardToggleSlider.png=346,274,120,70
+
+StartupWizardListBgNormal.png=228,34,374,70
+StartupWizardListBgPressed.png=228,114,374,70
+
+StartupWizardClockFace.png=24,194,313,315
+
+StartupWizardClockHandHour.png=23,547,60,180
+StartupWizardClockHandHourShadow.png=93,547,60,180
+StartupWizardClockHandMinute.png=163,547,60,180
+StartupWizardClockHandMinuteShadow.png=233,547,60,180
+
+StartupWizardDialogBackground.png=371,426,800,480
+
+StartupWizardProgressDot.png=23,750,24,24
+StartupWizardProgressDotHi.png=53,750,24,24
+
+StartupWizardSlider.png=303,547,16,106
+
+StartupWizardDayTile.png=614,34,108,60
+StartupWizardDayTilePressed.png=614,98,108,60
+StartupWizardMonthTile.png=726,34,108,60
+StartupWizardMonthTilePressed.png=726,98,108,60
+StartupWizardYearTile.png=838,34,188,60
+StartupWizardYearTilePressed.png=838,98,188,60
+
+
