@@ -72,7 +72,6 @@ binary-indep: build install
 	dh_fixperms
 	dh_installdeb
 	dh_gencontrol
-#       maemo-optify $(PKGNAME)
 	dh_md5sums
 	dh_builddeb
 	
